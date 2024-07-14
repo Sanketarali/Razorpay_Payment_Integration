@@ -15,7 +15,7 @@ Razorpay API<br>
 
 # Installation
 <h3>Clone the Repository</h3>
-git clone https://github.com/Sanketarali/Django-Razorpay-Payment.git<br>
+git clone https://github.com/Sanketarali/Razorpay_Payment_Integration.git<br>
 cd Django-Razorpay-Payment<br>
 
 <h3>Install Dependencies</h3>
