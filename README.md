@@ -40,9 +40,7 @@ Upon successful payment, you will be redirected to a success page confirming you
 ![image](https://github.com/user-attachments/assets/bcbff083-bf00-4283-aff3-a9dbfb36ab32)
 
 ![image](https://github.com/user-attachments/assets/e329f703-9097-4c50-ba40-955e36299857)
-
 ![image](https://github.com/user-attachments/assets/fc0092f6-e0f1-41bc-adb6-561b97bdf1b8)
-
 ![image](https://github.com/user-attachments/assets/910c1443-7a2a-40bd-8718-5de499f5a2fc)
 
 
